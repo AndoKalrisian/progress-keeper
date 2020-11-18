@@ -5,7 +5,7 @@ This module is for keeping track of progress.  It's useful for idempotent multi-
 ## Install
 
 ```
-pip install progress-keeper
+pip install progress_keeper
 ```
 
 ## Usage

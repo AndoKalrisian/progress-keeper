@@ -8,7 +8,7 @@ class Progress():
     
      Args:
             fp (str): file path of file to save progress into
-            vars (list(str)): list of variables to include in progress file and keep track of.
+            vars (list(str), optional): list of variables to include in progress file and keep track of.
     """
 
     def __init__(self, fp, vars=['last_index_processed']):

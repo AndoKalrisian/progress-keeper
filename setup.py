@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="progress-keeper",
-    version="0.0.1",
+    name="progress_keeper",
+    version="0.0.2",
     author="Anders Bergman",
     author_email="",
     description="Stores progress in a file, useful for idempotent multi-step processes.",
